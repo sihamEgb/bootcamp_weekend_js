@@ -1,4 +1,5 @@
 function fibonacci(n1,n2,n){
+	let arr=[];
 	if(n === 1) return n1;
 	if(n === 2) return n2;
 
