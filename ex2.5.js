@@ -5,3 +5,8 @@ function summation(num){
 	}	
 	return sum;
 }
+// method b
+//  const sum(n) =>(1+n)*n/2
+
+// method c
+console.log([1,2,3,4].reduce((a,b) => a+b ,0));

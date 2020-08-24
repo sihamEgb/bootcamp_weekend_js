@@ -6,3 +6,5 @@ function repeat_str(repeat,str){
 	}
 	return newStr;
 }
+// method b
+// str.repeat(repeat);

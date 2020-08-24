@@ -5,3 +5,4 @@ Complete the method that takes a boolean value and return a "Yes" string for tru
 
 
 const booleanToString = bool => bool===true?"Yes":"No";
+const booleanToString2 = bool => bool && "Yes" || "No";
